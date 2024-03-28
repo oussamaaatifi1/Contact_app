@@ -1,0 +1,171 @@
+{
+    "results": [
+      {
+        "first_name": "Miss Jennie ",
+        "last_name":"Nichols",
+        "email": "jennie.nichols@example.com",
+        "picture": "/images/01.png",
+        "address": {
+          "street": "8929 Valwood Pkwy",
+          "city": "Billings",
+          "state": "Michigan",
+          "country": "United States",
+          "postcode": "63104"
+        },
+        "gender": "female",
+        "phone": "(272) 790-0888",
+        "work_station": "Adelaide, Darwin"
+      },
+      {
+        "first_name": "Mr. John",
+        "last_name" : "Doe",
+        "email": "john.doe@example.com",
+        "picture": "/images/01.png",
+        "address": {
+          "street": "123 Main St",
+          "city": "Springfield",
+          "state": "Illinois",
+          "country": "United States",
+          "postcode": "12345"
+        },
+        "gender": "male",
+        "phone": "(555) 123-4567",
+        "work_station": "New York, NY"
+      },
+      {
+        "first_name": "Mrs. Jane",
+        "last_name":"Smith",
+        "email": "jane.smith@example.com",
+        "picture": "/images/01.png",
+        "address": {
+          "street": "456 Elm St",
+          "city": "Oakland",
+          "state": "California",
+          "country": "United States",
+          "postcode": "54321"
+        },
+        "gender": "female",
+        "phone": "(555) 987-6543",
+        "work_station": "San Francisco, CA"
+      },
+      {
+        "first_name": "Mr. James",
+        "last_name":"Johnson",
+        "email": "james.johnson@example.com",
+        "picture": "https://randomuser.me/api/portraits/men/76.jpg",
+        "address": {
+          "street": "789 Oak St",
+          "city": "Portland",
+          "state": "Oregon",
+          "country": "United States",
+          "postcode": "98765"
+        },
+        "gender": "male",
+        "phone": "(555) 456-7890",
+        "work_station": "Seattle, WA"
+      },
+      {
+        "first_name": "Miss Emily",
+        "last_name":"Davis",
+        "email": "emily.davis@example.com",
+        "picture": "https://randomuser.me/api/portraits/women/77.jpg",
+        "address": {
+          "street": "101 Pine St",
+          "city": "Austin",
+          "state": "Texas",
+          "country": "United States",
+          "postcode": "24680"
+        },
+        "gender": "female",
+        "phone": "(555) 234-5678",
+        "work_station": "Dallas, TX"
+      },
+      {
+        "first_name": "Mr. Michael",
+        "last_name":"Brown",
+        "email": "michael.brown@example.com",
+        "picture": "https://randomuser.me/api/portraits/men/77.jpg",
+        "address": {
+          "street": "111 Cedar St",
+          "city": "Denver",
+          "state": "Colorado",
+          "country": "United States",
+          "postcode": "13579"
+        },
+        "gender": "male",
+        "phone": "(555) 345-6789",
+        "work_station": "Denver, CO"
+      },
+      {
+        "first_name": "Miss Emma",
+        "last_name":"Wilson",
+        "email": "emma.wilson@example.com",
+        "picture": "https://randomuser.me/api/portraits/women/78.jpg",
+        "address": {
+          "street": "222 Maple St",
+          "city": "Miami",
+          "state": "Florida",
+          "country": "United States",
+          "postcode": "86420"
+        },
+        "gender": "female",
+        "phone": "(555) 567-8901",
+        "work_station": "Miami, FL"
+      },
+      {
+        "first_name": "Mr. Christopher ",
+        "last_name":"Martinez",
+        "email": "christopher.martinez@example.com",
+        "picture": "https://randomuser.me/api/portraits/men/78.jpg",
+        "address": {
+          "street": "333 Pineapple St",
+          "city": "Los Angeles",
+          "state": "California",
+          "country": "United States",
+          "postcode": "97531"
+        },
+        "gender": "male",
+        "phone": "(555) 678-9012",
+        "work_station": "Los Angeles, CA"
+      },
+      {
+        "first_name": "Mrs. Olivia",
+        "last_name":"Garcia",
+        "email": "olivia.garcia@example.com",
+        "picture": "https://randomuser.me/api/portraits/women/79.jpg",
+        "address": {
+          "street": "444 Orange St",
+          "city": "Chicago",
+          "state": "Illinois",
+          "country": "United States",
+          "postcode": "75319"
+        },
+        "gender": "female",
+        "phone": "(555) 789-0123",
+        "work_station": "Chicago, IL"
+      },
+      {
+        "first_name": "Mr. William",
+        "last_name":"Rodriguez",
+        "email": "william.rodriguez@example.com",
+        "picture": "https://randomuser.me/api/portraits/men/79.jpg",
+        "address": {
+          "street": "555 Grape St",
+          "city": "San Francisco",
+          "state": "California",
+          "country": "United States",
+          "postcode": "36985"
+        },
+        "gender": "male",
+        "phone": "(555) 890-1234",
+        "work_station": "San Francisco, CA"
+      }
+    ],
+    "info": {
+      "seed": "56d27f4a53bd5441",
+      "results": 10,
+      "page": 1,
+      "version": "1.4"
+    }
+}
+  
